@@ -1,0 +1,12 @@
+﻿questions,choice-1,choice-2,choice-3,choice-4,choice-5,choice-6,choice-7,question label
+Which parts of the course content did you find confusing or difficult to understand?,Data and Probability Theory,Descriptive Statistics I,Descriptive Statistics,None,All,Other,,multi
+Which parts of the course content did you find confusing or difficult to understand?,STATA Tutorial 1,STATA Tutorial 2,STATA Tutorial 3,STATA Tutorial 4,None,All,Other,multi
+Which parts of the course content did you find confusing or difficult to understand?,Sampling Distribution,Statistical Inference Basics,Statistical Inference: Means,Statistical Inference: Probabilities,None,All,Other,multi
+"How confident do you feel in your understanding of the content covered in this module? On a scale of 1 to 5, where 1 represents ""Not confident at all"" and 5 represents ""Very confident.""",1,2,3,4,5,,,single
+"Did you find the lecture delivery for this module clear and easy to understand? On a scale of 1 to 5, where 1 represents ""Not clear or easy to understand"" and 5 represents ""Very clear and easy to understand.""",1,2,3,4,5,,,single
+"How would you rate the difficulty of Problem Sets & Quiz in this module? On a scale of 1 to 5, where 1 represents ""Very easy"" and 5 represents ""Very difficult.""",1,2,3,4,5,,,single
+"To what extent do you feel comfortable asking the instructor or TA questions before, during, or after class? On a scale of 1 to 5, where 1 represents ""Not comfortable at all"" and 5 represents ""Very comfortable.""",1,2,3,4,5,,,single
+"How helpful were the office hours in resolving your questions? On a scale of 1 to 5, where 1 represents ""Not helpful at all"" and 5 represents ""Extremely helpful.""",1,2,3,4,5,,,single
+"Overall, how satisfied are you with the course? On a scale of 1 to 5, where 1 represents ""Very dissatisfied"" and 5 represents ""Very satisfied.""",1,2,3,4,5,,,single
+"Please describe any difficulties you encountered with the course content, delivery, materials, or learning support. (Text entry in English or Chinese)",,,,,,,,text
+How would you like the instructor and TA to assist you in overcoming the difficulties mentioned above and support your learning in the future? (Text entry in English or Chinese),,,,,,,,text
